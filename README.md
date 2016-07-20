@@ -37,7 +37,7 @@ When no key is applied, the "default-key" is applied to all operations.  If the 
 
 ### Explains the mappings (web.xml - code)
 <p align="left">
-  <img src="pic1.png" width="400"/> </br></br></br>
-  <img src="pic2.png" width="400"/> </br></br></br>
-  <img src="pic3.png" width="400"/> </br></br></br>
+  <img src="pic1.png"/> </br></br></br>
+  <img src="pic2.png"/> </br></br></br>
+  <img src="pic3.png"/> </br></br></br>
 </p>
