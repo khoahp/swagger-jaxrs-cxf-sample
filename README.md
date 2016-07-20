@@ -34,3 +34,10 @@ The sample app has an implementation of the Swagger ApiAuthorizationFilter.  Thi
 <li>- special-key</li>
 
 When no key is applied, the "default-key" is applied to all operations.  If the "special-key" is entered, a number of other resources are shown in the UI, including sample CRUD operations.
+
+### Explains the mappings (web.xml - code)
+<p align="left">
+  <img src="pic1.png" width="400"/> </br></br></br>
+  <img src="pic2.png" width="400"/> </br></br></br>
+  <img src="pic3.png" width="400"/> </br></br></br>
+</p>
